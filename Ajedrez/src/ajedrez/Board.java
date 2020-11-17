@@ -27,21 +27,527 @@ public class Board extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        jPanel1 = new javax.swing.JPanel();
+        jLabel18 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel();
+        jLabel2 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
+        jLabel5 = new javax.swing.JLabel();
+        jLabel8 = new javax.swing.JLabel();
+        jLabel7 = new javax.swing.JLabel();
+        jLabel6 = new javax.swing.JLabel();
+        jLabel9 = new javax.swing.JLabel();
+        jLabel21 = new javax.swing.JLabel();
+        jLabel44 = new javax.swing.JLabel();
+        jLabel43 = new javax.swing.JLabel();
+        jLabel42 = new javax.swing.JLabel();
+        jLabel41 = new javax.swing.JLabel();
+        jLabel40 = new javax.swing.JLabel();
+        jLabel39 = new javax.swing.JLabel();
+        jLabel38 = new javax.swing.JLabel();
+        jLabel37 = new javax.swing.JLabel();
+        jLabel22 = new javax.swing.JLabel();
+        jLabel23 = new javax.swing.JLabel();
+        jLabel101 = new javax.swing.JLabel();
+        jLabel102 = new javax.swing.JLabel();
+        jLabel103 = new javax.swing.JLabel();
+        jLabel108 = new javax.swing.JLabel();
+        jLabel107 = new javax.swing.JLabel();
+        jLabel104 = new javax.swing.JLabel();
+        jLabel105 = new javax.swing.JLabel();
+        jLabel106 = new javax.swing.JLabel();
+        jLabel24 = new javax.swing.JLabel();
+        jLabel25 = new javax.swing.JLabel();
+        jLabel115 = new javax.swing.JLabel();
+        jLabel114 = new javax.swing.JLabel();
+        jLabel113 = new javax.swing.JLabel();
+        jLabel110 = new javax.swing.JLabel();
+        jLabel111 = new javax.swing.JLabel();
+        jLabel112 = new javax.swing.JLabel();
+        jLabel109 = new javax.swing.JLabel();
+        jLabel116 = new javax.swing.JLabel();
+        jLabel26 = new javax.swing.JLabel();
+        jLabel28 = new javax.swing.JLabel();
+        jLabel124 = new javax.swing.JLabel();
+        jLabel119 = new javax.swing.JLabel();
+        jLabel120 = new javax.swing.JLabel();
+        jLabel121 = new javax.swing.JLabel();
+        jLabel122 = new javax.swing.JLabel();
+        jLabel123 = new javax.swing.JLabel();
+        jLabel118 = new javax.swing.JLabel();
+        jLabel117 = new javax.swing.JLabel();
+        jLabel29 = new javax.swing.JLabel();
+        jLabel27 = new javax.swing.JLabel();
+        jLabel131 = new javax.swing.JLabel();
+        jLabel128 = new javax.swing.JLabel();
+        jLabel127 = new javax.swing.JLabel();
+        jLabel130 = new javax.swing.JLabel();
+        jLabel129 = new javax.swing.JLabel();
+        jLabel132 = new javax.swing.JLabel();
+        jLabel125 = new javax.swing.JLabel();
+        jLabel126 = new javax.swing.JLabel();
+        jLabel34 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
+        jLabel140 = new javax.swing.JLabel();
+        jLabel133 = new javax.swing.JLabel();
+        jLabel138 = new javax.swing.JLabel();
+        jLabel137 = new javax.swing.JLabel();
+        jLabel136 = new javax.swing.JLabel();
+        jLabel135 = new javax.swing.JLabel();
+        jLabel134 = new javax.swing.JLabel();
+        jLabel139 = new javax.swing.JLabel();
+        jLabel33 = new javax.swing.JLabel();
+        jLabel32 = new javax.swing.JLabel();
+        jLabel141 = new javax.swing.JLabel();
+        jLabel148 = new javax.swing.JLabel();
+        jLabel143 = new javax.swing.JLabel();
+        jLabel142 = new javax.swing.JLabel();
+        jLabel147 = new javax.swing.JLabel();
+        jLabel146 = new javax.swing.JLabel();
+        jLabel145 = new javax.swing.JLabel();
+        jLabel144 = new javax.swing.JLabel();
+        jLabel31 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
+        jLabel154 = new javax.swing.JLabel();
+        jLabel153 = new javax.swing.JLabel();
+        jLabel152 = new javax.swing.JLabel();
+        jLabel149 = new javax.swing.JLabel();
+        jLabel156 = new javax.swing.JLabel();
+        jLabel155 = new javax.swing.JLabel();
+        jLabel150 = new javax.swing.JLabel();
+        jLabel151 = new javax.swing.JLabel();
+        jLabel36 = new javax.swing.JLabel();
+        jLabel20 = new javax.swing.JLabel();
+        jLabel10 = new javax.swing.JLabel();
+        jLabel11 = new javax.swing.JLabel();
+        jLabel12 = new javax.swing.JLabel();
+        jLabel13 = new javax.swing.JLabel();
+        jLabel14 = new javax.swing.JLabel();
+        jLabel15 = new javax.swing.JLabel();
+        jLabel16 = new javax.swing.JLabel();
+        jLabel17 = new javax.swing.JLabel();
+        jLabel19 = new javax.swing.JLabel();
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Ajedrez");
+        setPreferredSize(new java.awt.Dimension(600, 600));
+
+        jPanel1.setLayout(new java.awt.GridLayout(10, 10));
+        jPanel1.add(jLabel18);
+
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel1.setText("A");
+        jPanel1.add(jLabel1);
+
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel2.setText("B");
+        jPanel1.add(jLabel2);
+
+        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel3.setText("C");
+        jPanel1.add(jLabel3);
+
+        jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel4.setText("D");
+        jPanel1.add(jLabel4);
+
+        jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel5.setText("E");
+        jPanel1.add(jLabel5);
+
+        jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel8.setText("F");
+        jPanel1.add(jLabel8);
+
+        jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel7.setText("G");
+        jPanel1.add(jLabel7);
+
+        jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel6.setText("H");
+        jPanel1.add(jLabel6);
+        jPanel1.add(jLabel9);
+
+        jLabel21.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel21.setText("1");
+        jPanel1.add(jLabel21);
+
+        jLabel44.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel44.setOpaque(true);
+        jPanel1.add(jLabel44);
+        jPanel1.add(jLabel43);
+
+        jLabel42.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel42.setOpaque(true);
+        jPanel1.add(jLabel42);
+        jPanel1.add(jLabel41);
+
+        jLabel40.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel40.setOpaque(true);
+        jPanel1.add(jLabel40);
+        jPanel1.add(jLabel39);
+
+        jLabel38.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel38.setOpaque(true);
+        jPanel1.add(jLabel38);
+        jPanel1.add(jLabel37);
+
+        jLabel22.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel22.setText("1");
+        jPanel1.add(jLabel22);
+
+        jLabel23.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel23.setText("2");
+        jPanel1.add(jLabel23);
+        jPanel1.add(jLabel101);
+
+        jLabel102.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel102.setOpaque(true);
+        jPanel1.add(jLabel102);
+        jPanel1.add(jLabel103);
+
+        jLabel108.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel108.setOpaque(true);
+        jPanel1.add(jLabel108);
+        jPanel1.add(jLabel107);
+
+        jLabel104.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel104.setOpaque(true);
+        jPanel1.add(jLabel104);
+        jPanel1.add(jLabel105);
+
+        jLabel106.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel106.setOpaque(true);
+        jPanel1.add(jLabel106);
+
+        jLabel24.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel24.setText("2");
+        jPanel1.add(jLabel24);
+
+        jLabel25.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel25.setText("3");
+        jPanel1.add(jLabel25);
+
+        jLabel115.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel115.setOpaque(true);
+        jPanel1.add(jLabel115);
+        jPanel1.add(jLabel114);
+
+        jLabel113.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel113.setOpaque(true);
+        jPanel1.add(jLabel113);
+        jPanel1.add(jLabel110);
+
+        jLabel111.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel111.setOpaque(true);
+        jPanel1.add(jLabel111);
+        jPanel1.add(jLabel112);
+
+        jLabel109.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel109.setOpaque(true);
+        jPanel1.add(jLabel109);
+        jPanel1.add(jLabel116);
+
+        jLabel26.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel26.setText("3");
+        jPanel1.add(jLabel26);
+
+        jLabel28.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel28.setText("4");
+        jPanel1.add(jLabel28);
+        jPanel1.add(jLabel124);
+
+        jLabel119.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel119.setOpaque(true);
+        jPanel1.add(jLabel119);
+        jPanel1.add(jLabel120);
+
+        jLabel121.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel121.setOpaque(true);
+        jPanel1.add(jLabel121);
+        jPanel1.add(jLabel122);
+
+        jLabel123.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel123.setOpaque(true);
+        jPanel1.add(jLabel123);
+        jPanel1.add(jLabel118);
+
+        jLabel117.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel117.setOpaque(true);
+        jPanel1.add(jLabel117);
+
+        jLabel29.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel29.setText("4");
+        jPanel1.add(jLabel29);
+
+        jLabel27.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel27.setText("5");
+        jPanel1.add(jLabel27);
+
+        jLabel131.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel131.setOpaque(true);
+        jPanel1.add(jLabel131);
+        jPanel1.add(jLabel128);
+
+        jLabel127.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel127.setOpaque(true);
+        jPanel1.add(jLabel127);
+        jPanel1.add(jLabel130);
+
+        jLabel129.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel129.setOpaque(true);
+        jPanel1.add(jLabel129);
+        jPanel1.add(jLabel132);
+
+        jLabel125.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel125.setOpaque(true);
+        jPanel1.add(jLabel125);
+        jPanel1.add(jLabel126);
+
+        jLabel34.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel34.setText("5");
+        jPanel1.add(jLabel34);
+
+        jLabel35.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel35.setText("6");
+        jPanel1.add(jLabel35);
+        jPanel1.add(jLabel140);
+
+        jLabel133.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel133.setOpaque(true);
+        jPanel1.add(jLabel133);
+        jPanel1.add(jLabel138);
+
+        jLabel137.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel137.setOpaque(true);
+        jPanel1.add(jLabel137);
+        jPanel1.add(jLabel136);
+
+        jLabel135.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel135.setOpaque(true);
+        jPanel1.add(jLabel135);
+        jPanel1.add(jLabel134);
+
+        jLabel139.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel139.setOpaque(true);
+        jPanel1.add(jLabel139);
+
+        jLabel33.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel33.setText("6");
+        jPanel1.add(jLabel33);
+
+        jLabel32.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel32.setText("7");
+        jPanel1.add(jLabel32);
+
+        jLabel141.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel141.setOpaque(true);
+        jPanel1.add(jLabel141);
+        jPanel1.add(jLabel148);
+
+        jLabel143.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel143.setOpaque(true);
+        jPanel1.add(jLabel143);
+        jPanel1.add(jLabel142);
+
+        jLabel147.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel147.setOpaque(true);
+        jPanel1.add(jLabel147);
+        jPanel1.add(jLabel146);
+
+        jLabel145.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel145.setOpaque(true);
+        jPanel1.add(jLabel145);
+        jPanel1.add(jLabel144);
+
+        jLabel31.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel31.setText("7");
+        jPanel1.add(jLabel31);
+
+        jLabel30.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel30.setText("8");
+        jPanel1.add(jLabel30);
+        jPanel1.add(jLabel154);
+
+        jLabel153.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel153.setOpaque(true);
+        jPanel1.add(jLabel153);
+        jPanel1.add(jLabel152);
+
+        jLabel149.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel149.setOpaque(true);
+        jPanel1.add(jLabel149);
+        jPanel1.add(jLabel156);
+
+        jLabel155.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel155.setOpaque(true);
+        jPanel1.add(jLabel155);
+        jPanel1.add(jLabel150);
+
+        jLabel151.setBackground(new java.awt.Color(51, 153, 0));
+        jLabel151.setOpaque(true);
+        jPanel1.add(jLabel151);
+
+        jLabel36.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel36.setText("8");
+        jPanel1.add(jLabel36);
+        jPanel1.add(jLabel20);
+
+        jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel10.setText("A");
+        jPanel1.add(jLabel10);
+
+        jLabel11.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel11.setText("B");
+        jPanel1.add(jLabel11);
+
+        jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel12.setText("C");
+        jPanel1.add(jLabel12);
+
+        jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel13.setText("D");
+        jPanel1.add(jLabel13);
+
+        jLabel14.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel14.setText("E");
+        jPanel1.add(jLabel14);
+
+        jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel15.setText("F");
+        jPanel1.add(jLabel15);
+
+        jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel16.setText("G");
+        jPanel1.add(jLabel16);
+
+        jLabel17.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel17.setText("H");
+        jPanel1.add(jLabel17);
+        jPanel1.add(jLabel19);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 578, Short.MAX_VALUE)
+                .addContainerGap())
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel101;
+    private javax.swing.JLabel jLabel102;
+    private javax.swing.JLabel jLabel103;
+    private javax.swing.JLabel jLabel104;
+    private javax.swing.JLabel jLabel105;
+    private javax.swing.JLabel jLabel106;
+    private javax.swing.JLabel jLabel107;
+    private javax.swing.JLabel jLabel108;
+    private javax.swing.JLabel jLabel109;
+    private javax.swing.JLabel jLabel11;
+    private javax.swing.JLabel jLabel110;
+    private javax.swing.JLabel jLabel111;
+    private javax.swing.JLabel jLabel112;
+    private javax.swing.JLabel jLabel113;
+    private javax.swing.JLabel jLabel114;
+    private javax.swing.JLabel jLabel115;
+    private javax.swing.JLabel jLabel116;
+    private javax.swing.JLabel jLabel117;
+    private javax.swing.JLabel jLabel118;
+    private javax.swing.JLabel jLabel119;
+    private javax.swing.JLabel jLabel12;
+    private javax.swing.JLabel jLabel120;
+    private javax.swing.JLabel jLabel121;
+    private javax.swing.JLabel jLabel122;
+    private javax.swing.JLabel jLabel123;
+    private javax.swing.JLabel jLabel124;
+    private javax.swing.JLabel jLabel125;
+    private javax.swing.JLabel jLabel126;
+    private javax.swing.JLabel jLabel127;
+    private javax.swing.JLabel jLabel128;
+    private javax.swing.JLabel jLabel129;
+    private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel130;
+    private javax.swing.JLabel jLabel131;
+    private javax.swing.JLabel jLabel132;
+    private javax.swing.JLabel jLabel133;
+    private javax.swing.JLabel jLabel134;
+    private javax.swing.JLabel jLabel135;
+    private javax.swing.JLabel jLabel136;
+    private javax.swing.JLabel jLabel137;
+    private javax.swing.JLabel jLabel138;
+    private javax.swing.JLabel jLabel139;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel140;
+    private javax.swing.JLabel jLabel141;
+    private javax.swing.JLabel jLabel142;
+    private javax.swing.JLabel jLabel143;
+    private javax.swing.JLabel jLabel144;
+    private javax.swing.JLabel jLabel145;
+    private javax.swing.JLabel jLabel146;
+    private javax.swing.JLabel jLabel147;
+    private javax.swing.JLabel jLabel148;
+    private javax.swing.JLabel jLabel149;
+    private javax.swing.JLabel jLabel15;
+    private javax.swing.JLabel jLabel150;
+    private javax.swing.JLabel jLabel151;
+    private javax.swing.JLabel jLabel152;
+    private javax.swing.JLabel jLabel153;
+    private javax.swing.JLabel jLabel154;
+    private javax.swing.JLabel jLabel155;
+    private javax.swing.JLabel jLabel156;
+    private javax.swing.JLabel jLabel16;
+    private javax.swing.JLabel jLabel17;
+    private javax.swing.JLabel jLabel18;
+    private javax.swing.JLabel jLabel19;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel20;
+    private javax.swing.JLabel jLabel21;
+    private javax.swing.JLabel jLabel22;
+    private javax.swing.JLabel jLabel23;
+    private javax.swing.JLabel jLabel24;
+    private javax.swing.JLabel jLabel25;
+    private javax.swing.JLabel jLabel26;
+    private javax.swing.JLabel jLabel27;
+    private javax.swing.JLabel jLabel28;
+    private javax.swing.JLabel jLabel29;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel30;
+    private javax.swing.JLabel jLabel31;
+    private javax.swing.JLabel jLabel32;
+    private javax.swing.JLabel jLabel33;
+    private javax.swing.JLabel jLabel34;
+    private javax.swing.JLabel jLabel35;
+    private javax.swing.JLabel jLabel36;
+    private javax.swing.JLabel jLabel37;
+    private javax.swing.JLabel jLabel38;
+    private javax.swing.JLabel jLabel39;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel40;
+    private javax.swing.JLabel jLabel41;
+    private javax.swing.JLabel jLabel42;
+    private javax.swing.JLabel jLabel43;
+    private javax.swing.JLabel jLabel44;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
+    private javax.swing.JPanel jPanel1;
     // End of variables declaration//GEN-END:variables
 }

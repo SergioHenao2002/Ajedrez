@@ -45,6 +45,11 @@ public class MainWindow extends javax.swing.JFrame {
 
         btnStart.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnStart.setText("Empezar");
+        btnStart.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnStartActionPerformed(evt);
+            }
+        });
 
         btnSettings.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnSettings.setText("Configuraciones");
@@ -123,6 +128,11 @@ public class MainWindow extends javax.swing.JFrame {
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
+
+    private void btnStartActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnStartActionPerformed
+        this.setVisible(false);
+        new Board().setVisible(true);
+    }//GEN-LAST:event_btnStartActionPerformed
 
     /**
      * @param args the command line arguments
