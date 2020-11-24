@@ -53,9 +53,19 @@ public class MainWindow extends javax.swing.JFrame {
 
         btnSettings.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnSettings.setText("Configuraciones");
+        btnSettings.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnSettingsActionPerformed(evt);
+            }
+        });
 
         btnDifficulty.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnDifficulty.setText("Dificultad");
+        btnDifficulty.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnDifficultyActionPerformed(evt);
+            }
+        });
 
         btnScores.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnScores.setLabel("Puntajes");
@@ -133,6 +143,16 @@ public class MainWindow extends javax.swing.JFrame {
         this.setVisible(false);
         new Board().setVisible(true);
     }//GEN-LAST:event_btnStartActionPerformed
+
+    private void btnSettingsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSettingsActionPerformed
+        this.setVisible(false);
+        new MenuDeConfiguraciones().setVisible(true);
+    }//GEN-LAST:event_btnSettingsActionPerformed
+
+    private void btnDifficultyActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDifficultyActionPerformed
+        this.setVisible(false);
+        new Dificultades().setVisible(true);
+    }//GEN-LAST:event_btnDifficultyActionPerformed
 
     /**
      * @param args the command line arguments
