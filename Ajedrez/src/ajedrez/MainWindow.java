@@ -69,6 +69,11 @@ public class MainWindow extends javax.swing.JFrame {
 
         btnScores.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         btnScores.setLabel("Puntajes");
+        btnScores.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnScoresActionPerformed(evt);
+            }
+        });
 
         lblBackground.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/initial background.jpg"))); // NOI18N
         lblBackground.setText("jLabel2");
@@ -153,6 +158,10 @@ public class MainWindow extends javax.swing.JFrame {
         this.setVisible(false);
         new Dificultades().setVisible(true);
     }//GEN-LAST:event_btnDifficultyActionPerformed
+
+    private void btnScoresActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnScoresActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnScoresActionPerformed
 
     /**
      * @param args the command line arguments

@@ -155,6 +155,9 @@
             </Property>
             <Property name="label" type="java.lang.String" value="Puntajes"/>
           </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnScoresActionPerformed"/>
+          </Events>
         </Component>
         <Component class="javax.swing.JLabel" name="lblBackground">
           <Properties>
