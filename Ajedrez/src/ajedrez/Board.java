@@ -39,84 +39,84 @@ public class Board extends javax.swing.JFrame {
         jLabel6 = new javax.swing.JLabel();
         jLabel9 = new javax.swing.JLabel();
         jLabel21 = new javax.swing.JLabel();
-        jLabel44 = new javax.swing.JLabel();
-        jLabel43 = new javax.swing.JLabel();
-        jLabel42 = new javax.swing.JLabel();
-        jLabel41 = new javax.swing.JLabel();
-        jLabel40 = new javax.swing.JLabel();
-        jLabel39 = new javax.swing.JLabel();
-        jLabel38 = new javax.swing.JLabel();
-        jLabel37 = new javax.swing.JLabel();
+        lblA1 = new javax.swing.JLabel();
+        lblB1 = new javax.swing.JLabel();
+        lblC1 = new javax.swing.JLabel();
+        lblD1 = new javax.swing.JLabel();
+        lblE1 = new javax.swing.JLabel();
+        lblF1 = new javax.swing.JLabel();
+        lblG1 = new javax.swing.JLabel();
+        lblH1 = new javax.swing.JLabel();
         jLabel22 = new javax.swing.JLabel();
         jLabel23 = new javax.swing.JLabel();
-        jLabel101 = new javax.swing.JLabel();
-        jLabel102 = new javax.swing.JLabel();
-        jLabel103 = new javax.swing.JLabel();
-        jLabel108 = new javax.swing.JLabel();
-        jLabel107 = new javax.swing.JLabel();
-        jLabel104 = new javax.swing.JLabel();
-        jLabel105 = new javax.swing.JLabel();
-        jLabel106 = new javax.swing.JLabel();
+        lblA2 = new javax.swing.JLabel();
+        lblB2 = new javax.swing.JLabel();
+        lblC2 = new javax.swing.JLabel();
+        lblD2 = new javax.swing.JLabel();
+        lblE2 = new javax.swing.JLabel();
+        lblF2 = new javax.swing.JLabel();
+        lblG2 = new javax.swing.JLabel();
+        lblH2 = new javax.swing.JLabel();
         jLabel24 = new javax.swing.JLabel();
         jLabel25 = new javax.swing.JLabel();
-        jLabel115 = new javax.swing.JLabel();
-        jLabel114 = new javax.swing.JLabel();
-        jLabel113 = new javax.swing.JLabel();
-        jLabel110 = new javax.swing.JLabel();
-        jLabel111 = new javax.swing.JLabel();
-        jLabel112 = new javax.swing.JLabel();
-        jLabel109 = new javax.swing.JLabel();
-        jLabel116 = new javax.swing.JLabel();
+        lblA3 = new javax.swing.JLabel();
+        lblB3 = new javax.swing.JLabel();
+        lblC3 = new javax.swing.JLabel();
+        lblD3 = new javax.swing.JLabel();
+        lblE3 = new javax.swing.JLabel();
+        lblF3 = new javax.swing.JLabel();
+        lblG3 = new javax.swing.JLabel();
+        lblH3 = new javax.swing.JLabel();
         jLabel26 = new javax.swing.JLabel();
         jLabel28 = new javax.swing.JLabel();
-        jLabel124 = new javax.swing.JLabel();
-        jLabel119 = new javax.swing.JLabel();
-        jLabel120 = new javax.swing.JLabel();
-        jLabel121 = new javax.swing.JLabel();
-        jLabel122 = new javax.swing.JLabel();
-        jLabel123 = new javax.swing.JLabel();
-        jLabel118 = new javax.swing.JLabel();
-        jLabel117 = new javax.swing.JLabel();
+        lblA4 = new javax.swing.JLabel();
+        lblB4 = new javax.swing.JLabel();
+        lblC4 = new javax.swing.JLabel();
+        lblD4 = new javax.swing.JLabel();
+        lblE4 = new javax.swing.JLabel();
+        lblF4 = new javax.swing.JLabel();
+        lblG4 = new javax.swing.JLabel();
+        lblH4 = new javax.swing.JLabel();
         jLabel29 = new javax.swing.JLabel();
         jLabel27 = new javax.swing.JLabel();
-        jLabel131 = new javax.swing.JLabel();
-        jLabel128 = new javax.swing.JLabel();
-        jLabel127 = new javax.swing.JLabel();
-        jLabel130 = new javax.swing.JLabel();
-        jLabel129 = new javax.swing.JLabel();
-        jLabel132 = new javax.swing.JLabel();
-        jLabel125 = new javax.swing.JLabel();
-        jLabel126 = new javax.swing.JLabel();
+        lblA5 = new javax.swing.JLabel();
+        lblB5 = new javax.swing.JLabel();
+        lblC5 = new javax.swing.JLabel();
+        lblD5 = new javax.swing.JLabel();
+        lblE5 = new javax.swing.JLabel();
+        lblF5 = new javax.swing.JLabel();
+        lblG5 = new javax.swing.JLabel();
+        lblH5 = new javax.swing.JLabel();
         jLabel34 = new javax.swing.JLabel();
         jLabel35 = new javax.swing.JLabel();
-        jLabel140 = new javax.swing.JLabel();
-        jLabel133 = new javax.swing.JLabel();
-        jLabel138 = new javax.swing.JLabel();
-        jLabel137 = new javax.swing.JLabel();
-        jLabel136 = new javax.swing.JLabel();
-        jLabel135 = new javax.swing.JLabel();
-        jLabel134 = new javax.swing.JLabel();
-        jLabel139 = new javax.swing.JLabel();
+        lblA6 = new javax.swing.JLabel();
+        lblB6 = new javax.swing.JLabel();
+        lblC6 = new javax.swing.JLabel();
+        lblD6 = new javax.swing.JLabel();
+        lblE6 = new javax.swing.JLabel();
+        lblF6 = new javax.swing.JLabel();
+        lblG6 = new javax.swing.JLabel();
+        lblH6 = new javax.swing.JLabel();
         jLabel33 = new javax.swing.JLabel();
         jLabel32 = new javax.swing.JLabel();
-        jLabel141 = new javax.swing.JLabel();
-        jLabel148 = new javax.swing.JLabel();
-        jLabel143 = new javax.swing.JLabel();
-        jLabel142 = new javax.swing.JLabel();
-        jLabel147 = new javax.swing.JLabel();
-        jLabel146 = new javax.swing.JLabel();
-        jLabel145 = new javax.swing.JLabel();
-        jLabel144 = new javax.swing.JLabel();
+        lblA7 = new javax.swing.JLabel();
+        lblB7 = new javax.swing.JLabel();
+        lblC7 = new javax.swing.JLabel();
+        lblD7 = new javax.swing.JLabel();
+        lblE7 = new javax.swing.JLabel();
+        lblF7 = new javax.swing.JLabel();
+        lblG7 = new javax.swing.JLabel();
+        lblH7 = new javax.swing.JLabel();
         jLabel31 = new javax.swing.JLabel();
         jLabel30 = new javax.swing.JLabel();
-        jLabel154 = new javax.swing.JLabel();
-        jLabel153 = new javax.swing.JLabel();
-        jLabel152 = new javax.swing.JLabel();
-        jLabel149 = new javax.swing.JLabel();
-        jLabel156 = new javax.swing.JLabel();
-        jLabel155 = new javax.swing.JLabel();
-        jLabel150 = new javax.swing.JLabel();
-        jLabel151 = new javax.swing.JLabel();
+        lblA8 = new javax.swing.JLabel();
+        lblB8 = new javax.swing.JLabel();
+        lblC8 = new javax.swing.JLabel();
+        lblD8 = new javax.swing.JLabel();
+        lblE8 = new javax.swing.JLabel();
+        lblF8 = new javax.swing.JLabel();
+        lblG8 = new javax.swing.JLabel();
+        lblH8 = new javax.swing.JLabel();
         jLabel36 = new javax.swing.JLabel();
         jLabel20 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
@@ -131,7 +131,7 @@ public class Board extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Ajedrez");
-        setPreferredSize(new java.awt.Dimension(600, 600));
+        setPreferredSize(new java.awt.Dimension(630, 630));
 
         jPanel1.setLayout(new java.awt.GridLayout(10, 10));
         jPanel1.add(jLabel18);
@@ -173,25 +173,37 @@ public class Board extends javax.swing.JFrame {
         jLabel21.setText("1");
         jPanel1.add(jLabel21);
 
-        jLabel44.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel44.setOpaque(true);
-        jPanel1.add(jLabel44);
-        jPanel1.add(jLabel43);
+        lblA1.setBackground(new java.awt.Color(51, 153, 0));
+        lblA1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_rook.png"))); // NOI18N
+        lblA1.setOpaque(true);
+        jPanel1.add(lblA1);
 
-        jLabel42.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel42.setOpaque(true);
-        jPanel1.add(jLabel42);
-        jPanel1.add(jLabel41);
+        lblB1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_knight.png"))); // NOI18N
+        jPanel1.add(lblB1);
 
-        jLabel40.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel40.setOpaque(true);
-        jPanel1.add(jLabel40);
-        jPanel1.add(jLabel39);
+        lblC1.setBackground(new java.awt.Color(51, 153, 0));
+        lblC1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_bishop.png"))); // NOI18N
+        lblC1.setOpaque(true);
+        jPanel1.add(lblC1);
 
-        jLabel38.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel38.setOpaque(true);
-        jPanel1.add(jLabel38);
-        jPanel1.add(jLabel37);
+        lblD1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_king.png"))); // NOI18N
+        jPanel1.add(lblD1);
+
+        lblE1.setBackground(new java.awt.Color(51, 153, 0));
+        lblE1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_queen.png"))); // NOI18N
+        lblE1.setOpaque(true);
+        jPanel1.add(lblE1);
+
+        lblF1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_bishop.png"))); // NOI18N
+        jPanel1.add(lblF1);
+
+        lblG1.setBackground(new java.awt.Color(51, 153, 0));
+        lblG1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_knight.png"))); // NOI18N
+        lblG1.setOpaque(true);
+        jPanel1.add(lblG1);
+
+        lblH1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        jPanel1.add(lblH1);
 
         jLabel22.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel22.setText("1");
@@ -200,26 +212,39 @@ public class Board extends javax.swing.JFrame {
         jLabel23.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel23.setText("2");
         jPanel1.add(jLabel23);
-        jPanel1.add(jLabel101);
 
-        jLabel102.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel102.setOpaque(true);
-        jPanel1.add(jLabel102);
-        jPanel1.add(jLabel103);
+        lblA2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        jPanel1.add(lblA2);
 
-        jLabel108.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel108.setOpaque(true);
-        jPanel1.add(jLabel108);
-        jPanel1.add(jLabel107);
+        lblB2.setBackground(new java.awt.Color(51, 153, 0));
+        lblB2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        lblB2.setOpaque(true);
+        jPanel1.add(lblB2);
+        lblB2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
 
-        jLabel104.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel104.setOpaque(true);
-        jPanel1.add(jLabel104);
-        jPanel1.add(jLabel105);
+        lblC2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        jPanel1.add(lblC2);
 
-        jLabel106.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel106.setOpaque(true);
-        jPanel1.add(jLabel106);
+        lblD2.setBackground(new java.awt.Color(51, 153, 0));
+        lblD2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        lblD2.setOpaque(true);
+        jPanel1.add(lblD2);
+
+        lblE2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        jPanel1.add(lblE2);
+
+        lblF2.setBackground(new java.awt.Color(51, 153, 0));
+        lblF2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        lblF2.setOpaque(true);
+        jPanel1.add(lblF2);
+
+        lblG2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        jPanel1.add(lblG2);
+
+        lblH2.setBackground(new java.awt.Color(51, 153, 0));
+        lblH2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/black_pawn.png"))); // NOI18N
+        lblH2.setOpaque(true);
+        jPanel1.add(lblH2);
 
         jLabel24.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel24.setText("2");
@@ -229,25 +254,25 @@ public class Board extends javax.swing.JFrame {
         jLabel25.setText("3");
         jPanel1.add(jLabel25);
 
-        jLabel115.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel115.setOpaque(true);
-        jPanel1.add(jLabel115);
-        jPanel1.add(jLabel114);
+        lblA3.setBackground(new java.awt.Color(51, 153, 0));
+        lblA3.setOpaque(true);
+        jPanel1.add(lblA3);
+        jPanel1.add(lblB3);
 
-        jLabel113.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel113.setOpaque(true);
-        jPanel1.add(jLabel113);
-        jPanel1.add(jLabel110);
+        lblC3.setBackground(new java.awt.Color(51, 153, 0));
+        lblC3.setOpaque(true);
+        jPanel1.add(lblC3);
+        jPanel1.add(lblD3);
 
-        jLabel111.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel111.setOpaque(true);
-        jPanel1.add(jLabel111);
-        jPanel1.add(jLabel112);
+        lblE3.setBackground(new java.awt.Color(51, 153, 0));
+        lblE3.setOpaque(true);
+        jPanel1.add(lblE3);
+        jPanel1.add(lblF3);
 
-        jLabel109.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel109.setOpaque(true);
-        jPanel1.add(jLabel109);
-        jPanel1.add(jLabel116);
+        lblG3.setBackground(new java.awt.Color(51, 153, 0));
+        lblG3.setOpaque(true);
+        jPanel1.add(lblG3);
+        jPanel1.add(lblH3);
 
         jLabel26.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel26.setText("3");
@@ -256,26 +281,26 @@ public class Board extends javax.swing.JFrame {
         jLabel28.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel28.setText("4");
         jPanel1.add(jLabel28);
-        jPanel1.add(jLabel124);
+        jPanel1.add(lblA4);
 
-        jLabel119.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel119.setOpaque(true);
-        jPanel1.add(jLabel119);
-        jPanel1.add(jLabel120);
+        lblB4.setBackground(new java.awt.Color(51, 153, 0));
+        lblB4.setOpaque(true);
+        jPanel1.add(lblB4);
+        jPanel1.add(lblC4);
 
-        jLabel121.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel121.setOpaque(true);
-        jPanel1.add(jLabel121);
-        jPanel1.add(jLabel122);
+        lblD4.setBackground(new java.awt.Color(51, 153, 0));
+        lblD4.setOpaque(true);
+        jPanel1.add(lblD4);
+        jPanel1.add(lblE4);
 
-        jLabel123.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel123.setOpaque(true);
-        jPanel1.add(jLabel123);
-        jPanel1.add(jLabel118);
+        lblF4.setBackground(new java.awt.Color(51, 153, 0));
+        lblF4.setOpaque(true);
+        jPanel1.add(lblF4);
+        jPanel1.add(lblG4);
 
-        jLabel117.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel117.setOpaque(true);
-        jPanel1.add(jLabel117);
+        lblH4.setBackground(new java.awt.Color(51, 153, 0));
+        lblH4.setOpaque(true);
+        jPanel1.add(lblH4);
 
         jLabel29.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel29.setText("4");
@@ -285,25 +310,25 @@ public class Board extends javax.swing.JFrame {
         jLabel27.setText("5");
         jPanel1.add(jLabel27);
 
-        jLabel131.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel131.setOpaque(true);
-        jPanel1.add(jLabel131);
-        jPanel1.add(jLabel128);
+        lblA5.setBackground(new java.awt.Color(51, 153, 0));
+        lblA5.setOpaque(true);
+        jPanel1.add(lblA5);
+        jPanel1.add(lblB5);
 
-        jLabel127.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel127.setOpaque(true);
-        jPanel1.add(jLabel127);
-        jPanel1.add(jLabel130);
+        lblC5.setBackground(new java.awt.Color(51, 153, 0));
+        lblC5.setOpaque(true);
+        jPanel1.add(lblC5);
+        jPanel1.add(lblD5);
 
-        jLabel129.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel129.setOpaque(true);
-        jPanel1.add(jLabel129);
-        jPanel1.add(jLabel132);
+        lblE5.setBackground(new java.awt.Color(51, 153, 0));
+        lblE5.setOpaque(true);
+        jPanel1.add(lblE5);
+        jPanel1.add(lblF5);
 
-        jLabel125.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel125.setOpaque(true);
-        jPanel1.add(jLabel125);
-        jPanel1.add(jLabel126);
+        lblG5.setBackground(new java.awt.Color(51, 153, 0));
+        lblG5.setOpaque(true);
+        jPanel1.add(lblG5);
+        jPanel1.add(lblH5);
 
         jLabel34.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel34.setText("5");
@@ -312,26 +337,26 @@ public class Board extends javax.swing.JFrame {
         jLabel35.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel35.setText("6");
         jPanel1.add(jLabel35);
-        jPanel1.add(jLabel140);
+        jPanel1.add(lblA6);
 
-        jLabel133.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel133.setOpaque(true);
-        jPanel1.add(jLabel133);
-        jPanel1.add(jLabel138);
+        lblB6.setBackground(new java.awt.Color(51, 153, 0));
+        lblB6.setOpaque(true);
+        jPanel1.add(lblB6);
+        jPanel1.add(lblC6);
 
-        jLabel137.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel137.setOpaque(true);
-        jPanel1.add(jLabel137);
-        jPanel1.add(jLabel136);
+        lblD6.setBackground(new java.awt.Color(51, 153, 0));
+        lblD6.setOpaque(true);
+        jPanel1.add(lblD6);
+        jPanel1.add(lblE6);
 
-        jLabel135.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel135.setOpaque(true);
-        jPanel1.add(jLabel135);
-        jPanel1.add(jLabel134);
+        lblF6.setBackground(new java.awt.Color(51, 153, 0));
+        lblF6.setOpaque(true);
+        jPanel1.add(lblF6);
+        jPanel1.add(lblG6);
 
-        jLabel139.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel139.setOpaque(true);
-        jPanel1.add(jLabel139);
+        lblH6.setBackground(new java.awt.Color(51, 153, 0));
+        lblH6.setOpaque(true);
+        jPanel1.add(lblH6);
 
         jLabel33.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel33.setText("6");
@@ -341,25 +366,37 @@ public class Board extends javax.swing.JFrame {
         jLabel32.setText("7");
         jPanel1.add(jLabel32);
 
-        jLabel141.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel141.setOpaque(true);
-        jPanel1.add(jLabel141);
-        jPanel1.add(jLabel148);
+        lblA7.setBackground(new java.awt.Color(51, 153, 0));
+        lblA7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        lblA7.setOpaque(true);
+        jPanel1.add(lblA7);
 
-        jLabel143.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel143.setOpaque(true);
-        jPanel1.add(jLabel143);
-        jPanel1.add(jLabel142);
+        lblB7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        jPanel1.add(lblB7);
 
-        jLabel147.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel147.setOpaque(true);
-        jPanel1.add(jLabel147);
-        jPanel1.add(jLabel146);
+        lblC7.setBackground(new java.awt.Color(51, 153, 0));
+        lblC7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        lblC7.setOpaque(true);
+        jPanel1.add(lblC7);
 
-        jLabel145.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel145.setOpaque(true);
-        jPanel1.add(jLabel145);
-        jPanel1.add(jLabel144);
+        lblD7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        jPanel1.add(lblD7);
+
+        lblE7.setBackground(new java.awt.Color(51, 153, 0));
+        lblE7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        lblE7.setOpaque(true);
+        jPanel1.add(lblE7);
+
+        lblF7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        jPanel1.add(lblF7);
+
+        lblG7.setBackground(new java.awt.Color(51, 153, 0));
+        lblG7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        lblG7.setOpaque(true);
+        jPanel1.add(lblG7);
+
+        lblH7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_pawn.png"))); // NOI18N
+        jPanel1.add(lblH7);
 
         jLabel31.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel31.setText("7");
@@ -368,26 +405,38 @@ public class Board extends javax.swing.JFrame {
         jLabel30.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel30.setText("8");
         jPanel1.add(jLabel30);
-        jPanel1.add(jLabel154);
 
-        jLabel153.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel153.setOpaque(true);
-        jPanel1.add(jLabel153);
-        jPanel1.add(jLabel152);
+        lblA8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_rook.png"))); // NOI18N
+        jPanel1.add(lblA8);
 
-        jLabel149.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel149.setOpaque(true);
-        jPanel1.add(jLabel149);
-        jPanel1.add(jLabel156);
+        lblB8.setBackground(new java.awt.Color(51, 153, 0));
+        lblB8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_knight.png"))); // NOI18N
+        lblB8.setOpaque(true);
+        jPanel1.add(lblB8);
 
-        jLabel155.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel155.setOpaque(true);
-        jPanel1.add(jLabel155);
-        jPanel1.add(jLabel150);
+        lblC8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_bishop.png"))); // NOI18N
+        jPanel1.add(lblC8);
 
-        jLabel151.setBackground(new java.awt.Color(51, 153, 0));
-        jLabel151.setOpaque(true);
-        jPanel1.add(jLabel151);
+        lblD8.setBackground(new java.awt.Color(51, 153, 0));
+        lblD8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_king.png"))); // NOI18N
+        lblD8.setOpaque(true);
+        jPanel1.add(lblD8);
+
+        lblE8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_queen.png"))); // NOI18N
+        jPanel1.add(lblE8);
+
+        lblF8.setBackground(new java.awt.Color(51, 153, 0));
+        lblF8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_bishop.png"))); // NOI18N
+        lblF8.setOpaque(true);
+        jPanel1.add(lblF8);
+
+        lblG8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_knight.png"))); // NOI18N
+        jPanel1.add(lblG8);
+
+        lblH8.setBackground(new java.awt.Color(51, 153, 0));
+        lblH8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/white_rook.png"))); // NOI18N
+        lblH8.setOpaque(true);
+        jPanel1.add(lblH8);
 
         jLabel36.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel36.setText("8");
@@ -432,16 +481,14 @@ public class Board extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 635, Short.MAX_VALUE)
-                .addContainerGap())
+                .addGap(1, 1, 1)
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 578, Short.MAX_VALUE)
-                .addContainerGap())
+                .addGap(1, 1, 1)
+                .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         pack();
@@ -450,67 +497,11 @@ public class Board extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel101;
-    private javax.swing.JLabel jLabel102;
-    private javax.swing.JLabel jLabel103;
-    private javax.swing.JLabel jLabel104;
-    private javax.swing.JLabel jLabel105;
-    private javax.swing.JLabel jLabel106;
-    private javax.swing.JLabel jLabel107;
-    private javax.swing.JLabel jLabel108;
-    private javax.swing.JLabel jLabel109;
     private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel110;
-    private javax.swing.JLabel jLabel111;
-    private javax.swing.JLabel jLabel112;
-    private javax.swing.JLabel jLabel113;
-    private javax.swing.JLabel jLabel114;
-    private javax.swing.JLabel jLabel115;
-    private javax.swing.JLabel jLabel116;
-    private javax.swing.JLabel jLabel117;
-    private javax.swing.JLabel jLabel118;
-    private javax.swing.JLabel jLabel119;
     private javax.swing.JLabel jLabel12;
-    private javax.swing.JLabel jLabel120;
-    private javax.swing.JLabel jLabel121;
-    private javax.swing.JLabel jLabel122;
-    private javax.swing.JLabel jLabel123;
-    private javax.swing.JLabel jLabel124;
-    private javax.swing.JLabel jLabel125;
-    private javax.swing.JLabel jLabel126;
-    private javax.swing.JLabel jLabel127;
-    private javax.swing.JLabel jLabel128;
-    private javax.swing.JLabel jLabel129;
     private javax.swing.JLabel jLabel13;
-    private javax.swing.JLabel jLabel130;
-    private javax.swing.JLabel jLabel131;
-    private javax.swing.JLabel jLabel132;
-    private javax.swing.JLabel jLabel133;
-    private javax.swing.JLabel jLabel134;
-    private javax.swing.JLabel jLabel135;
-    private javax.swing.JLabel jLabel136;
-    private javax.swing.JLabel jLabel137;
-    private javax.swing.JLabel jLabel138;
-    private javax.swing.JLabel jLabel139;
     private javax.swing.JLabel jLabel14;
-    private javax.swing.JLabel jLabel140;
-    private javax.swing.JLabel jLabel141;
-    private javax.swing.JLabel jLabel142;
-    private javax.swing.JLabel jLabel143;
-    private javax.swing.JLabel jLabel144;
-    private javax.swing.JLabel jLabel145;
-    private javax.swing.JLabel jLabel146;
-    private javax.swing.JLabel jLabel147;
-    private javax.swing.JLabel jLabel148;
-    private javax.swing.JLabel jLabel149;
     private javax.swing.JLabel jLabel15;
-    private javax.swing.JLabel jLabel150;
-    private javax.swing.JLabel jLabel151;
-    private javax.swing.JLabel jLabel152;
-    private javax.swing.JLabel jLabel153;
-    private javax.swing.JLabel jLabel154;
-    private javax.swing.JLabel jLabel155;
-    private javax.swing.JLabel jLabel156;
     private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel17;
     private javax.swing.JLabel jLabel18;
@@ -534,20 +525,76 @@ public class Board extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel34;
     private javax.swing.JLabel jLabel35;
     private javax.swing.JLabel jLabel36;
-    private javax.swing.JLabel jLabel37;
-    private javax.swing.JLabel jLabel38;
-    private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel40;
-    private javax.swing.JLabel jLabel41;
-    private javax.swing.JLabel jLabel42;
-    private javax.swing.JLabel jLabel43;
-    private javax.swing.JLabel jLabel44;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JLabel lblA1;
+    private javax.swing.JLabel lblA2;
+    private javax.swing.JLabel lblA3;
+    private javax.swing.JLabel lblA4;
+    private javax.swing.JLabel lblA5;
+    private javax.swing.JLabel lblA6;
+    private javax.swing.JLabel lblA7;
+    private javax.swing.JLabel lblA8;
+    private javax.swing.JLabel lblB1;
+    private javax.swing.JLabel lblB2;
+    private javax.swing.JLabel lblB3;
+    private javax.swing.JLabel lblB4;
+    private javax.swing.JLabel lblB5;
+    private javax.swing.JLabel lblB6;
+    private javax.swing.JLabel lblB7;
+    private javax.swing.JLabel lblB8;
+    private javax.swing.JLabel lblC1;
+    private javax.swing.JLabel lblC2;
+    private javax.swing.JLabel lblC3;
+    private javax.swing.JLabel lblC4;
+    private javax.swing.JLabel lblC5;
+    private javax.swing.JLabel lblC6;
+    private javax.swing.JLabel lblC7;
+    private javax.swing.JLabel lblC8;
+    private javax.swing.JLabel lblD1;
+    private javax.swing.JLabel lblD2;
+    private javax.swing.JLabel lblD3;
+    private javax.swing.JLabel lblD4;
+    private javax.swing.JLabel lblD5;
+    private javax.swing.JLabel lblD6;
+    private javax.swing.JLabel lblD7;
+    private javax.swing.JLabel lblD8;
+    private javax.swing.JLabel lblE1;
+    private javax.swing.JLabel lblE2;
+    private javax.swing.JLabel lblE3;
+    private javax.swing.JLabel lblE4;
+    private javax.swing.JLabel lblE5;
+    private javax.swing.JLabel lblE6;
+    private javax.swing.JLabel lblE7;
+    private javax.swing.JLabel lblE8;
+    private javax.swing.JLabel lblF1;
+    private javax.swing.JLabel lblF2;
+    private javax.swing.JLabel lblF3;
+    private javax.swing.JLabel lblF4;
+    private javax.swing.JLabel lblF5;
+    private javax.swing.JLabel lblF6;
+    private javax.swing.JLabel lblF7;
+    private javax.swing.JLabel lblF8;
+    private javax.swing.JLabel lblG1;
+    private javax.swing.JLabel lblG2;
+    private javax.swing.JLabel lblG3;
+    private javax.swing.JLabel lblG4;
+    private javax.swing.JLabel lblG5;
+    private javax.swing.JLabel lblG6;
+    private javax.swing.JLabel lblG7;
+    private javax.swing.JLabel lblG8;
+    private javax.swing.JLabel lblH1;
+    private javax.swing.JLabel lblH2;
+    private javax.swing.JLabel lblH3;
+    private javax.swing.JLabel lblH4;
+    private javax.swing.JLabel lblH5;
+    private javax.swing.JLabel lblH6;
+    private javax.swing.JLabel lblH7;
+    private javax.swing.JLabel lblH8;
     // End of variables declaration//GEN-END:variables
 }
